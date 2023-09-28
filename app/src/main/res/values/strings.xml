@@ -8,5 +8,7 @@
     <string name="et_contra">CONTRASEÑA</string>
     <string name="bt_registrar">Registrar</string>
     <string name="bt_buscar">Buscar</string>
+    <string name="bt_actualizar">Actualizar</string>
     <string name="bt_listar_registros">Listar</string>
+
 </resources>
